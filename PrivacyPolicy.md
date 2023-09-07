@@ -4,7 +4,7 @@ Last Updated: September 7th 2023
 
 This Privacy Policy outlines the information collection, usage, and disclosure practices of the xG Calculator (referred to as "we," "our," or "us") mobile application. We are committed to protecting your privacy and ensuring the security of your personal information. By using our calculator app, you agree to the terms and conditions outlined in this Privacy Policy.
 
-## 1. Information We Collect
+### 1. Information We Collect
 
 1.1 Usage Information: We may collect non-personal information related to your use of the app, including but not limited to the date and time of your interactions, the calculator functions used, and the duration of your sessions.
 
